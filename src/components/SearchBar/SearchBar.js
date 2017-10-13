@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { AutoComplete, IconButton, Paper } from 'material-ui'
-import SearchIcon from 'material-ui/svg-icons/action/search'
-import CloseIcon from 'material-ui/svg-icons/navigation/close'
+import SearchIcon from 'material-ui-icons/action/search'
+import CloseIcon from 'material-ui-icons/navigation/close'
 import { grey500 } from 'material-ui/styles/colors'
 
 const getStyles = (props, state) => {
